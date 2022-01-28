@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realcyrez
+- 👋 Hi, I’m Cyrez
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Something
 - 💞️ I’m looking to collaborate on noone 
